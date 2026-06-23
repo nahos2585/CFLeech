@@ -1,6 +1,6 @@
 # Cloudflare Worker Download Proxy
 
-A lightweight personal download proxy built on **Cloudflare Workers** (Something like RapidLeech).
+A lightweight personal download proxy built on **Cloudflare Workers** (Something like RapidLeech and PHPRoxy/Glype, But very simple).
 
 This project allows you to download files through Cloudflare by providing a direct file URL. The Worker acts as a streaming proxy:
 
